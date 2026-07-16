@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CafeBilling {
+public class pa1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
